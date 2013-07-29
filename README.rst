@@ -1,4 +1,4 @@
-This is the repository for managing the Chicago instance of Localwiki, found at [wikichicago.org](wikichicago.org). This LocalWiki instance should be considered alpha until futher notice. 
+This is the repository for managing the Chicago instance of Localwiki, found at wikichicago.org. This LocalWiki instance should be considered alpha until futher notice. 
 
 
 
